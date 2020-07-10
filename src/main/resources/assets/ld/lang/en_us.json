@@ -4,8 +4,9 @@
   "item.ld.isocarapace": "Isocarapace",
   "item.ld.tungsten_ingot": "Tungsten Ingot",
   "item.ld.tungsten_nugget": "Tungsten Nugget",
-  "item.ld.rainbow_pufferfish": "Rainbow Pufferfish",
+  "item.ld.rainbow_fish": "Rainbow Pufferfish",
   "block.ld.chiseled_pearl_block": "Chiseled Pearl Block",
-
-  "block.ld.dead_seafoam_block": "Dead Seafoam Coral"
+  "block.ld.dead_seafoam_block": "Dead Seafoam Coral",
+  "block.ld.seafoam_coral": "Seafoam Coral",
+  "block.ld.tungsten_block": "Tungsten Block"
 }
