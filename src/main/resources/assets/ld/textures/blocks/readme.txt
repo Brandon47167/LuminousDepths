@@ -1,0 +1,1 @@
+just use a normal block json for these textures, nothing special.
