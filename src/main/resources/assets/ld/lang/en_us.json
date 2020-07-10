@@ -1,4 +1,11 @@
 {
   "itemGroup.ldtab": "Luminous Depths",
-  "item.ld.esca": "Esca"
+  "item.ld.esca": "Esca",
+  "item.ld.isocarapace": "Isocarapace",
+  "item.ld.tungsten_ingot": "Tungsten Ingot",
+  "item.ld.tungsten_nugget": "Tungsten Nugget",
+  "item.ld.rainbow_pufferfish": "Rainbow Pufferfish",
+  "block.ld.chiseled_pearl_block": "Chiseled Pearl Block",
+
+  "block.ld.dead_seafoam_block": "Dead Seafoam Coral"
 }
